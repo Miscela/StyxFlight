@@ -1,0 +1,7 @@
+name: StyxFlight
+main: me.iffa.styxflight.StyxFlight
+version: 0.1
+author: iffa
+commands:
+        sf:
+            description: Enable flying
